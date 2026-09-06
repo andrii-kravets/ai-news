@@ -1,3 +1,11 @@
+---
+date: 2026-09-06
+sources: ["https://www.youtube.com/watch?v=mpEzCmWy7Oc"]
+tags: [ai, models, clipping]
+processed: true
+wiki_notes: ["gpt-6-astra", "claude-fable-5-1"]
+---
+
 This is a YouTube video page from the channel **Igor Matrofailo** (@imatrof), titled **"НОВИНИ AI: OpenAI vs Anthropic - хто зробив цей тиждень?"** (AI News: OpenAI vs Anthropic - who made this week?).
 
 **Key details:**
